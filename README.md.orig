@@ -9,4 +9,9 @@ ABC
 FED
 
 do fetcha
-windows github and cmd :D
+<<<<<<< HEAD
+windows cmd
+
+=======
+windows github
+>>>>>>> f60dfa186a0ec5966a34a86ec38c703fc708a4b1
