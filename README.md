@@ -9,4 +9,4 @@ ABC
 FED
 
 do fetcha
-windows github
+windows githubs
