@@ -9,5 +9,4 @@ ABC
 FED
 
 do fetcha
-windows cmd
-
+windows github and cmd :D
