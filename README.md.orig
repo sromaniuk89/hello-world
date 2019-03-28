@@ -6,12 +6,13 @@ Hi,
 this is the first repository I have made.
 
 ABC
+<<<<<<< HEAD
+DEF
+
+lokalny branch
+=======
 FED
 
 do fetcha
-<<<<<<< HEAD
-windows cmd
-
-=======
-windows github
->>>>>>> f60dfa186a0ec5966a34a86ec38c703fc708a4b1
+windows github and cmd :D
+>>>>>>> bca91a561d5cd752fe6561338484561bc2863ca0
