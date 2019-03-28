@@ -12,3 +12,5 @@ do fetcha
 windows github and cmd :D
 
 REBASE
+
+stash
